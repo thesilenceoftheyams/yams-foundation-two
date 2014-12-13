@@ -1,3 +1,7 @@
+# Yams Foundation Two
+
+This theme is forked from FoundationPress, and has some minor changes for the blog www.thesilenceoftheyams.com.
+
 # FoundationPress
 
 This is a WordPress starter theme based on Foundation 5 by Zurb. The purpose of FoundationPress, is to act as a small and handy toolbox that contains the essentials needed to build any design. FoundationPress is meant to be a starting point, not the final product. If you're looking for an all-in-one theme with built-in shortcodes, plugins, fancypancy portfolio templates or whatnot, I'm afraid you have to look elsewhere.
